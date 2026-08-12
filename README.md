@@ -35,16 +35,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haarish-kc&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haarish-kc&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haarish-kc&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=haarish-kc&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=haarish-kc&theme=radical" alt="GitHub Streak" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haarish-kc&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
 ### 🌐 Connect with Me
 
