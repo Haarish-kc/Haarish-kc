@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm HAARISH K C</h1>
 <h3 align="center">A passionate developer from Earth</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **Generative AI & related technologies**
 - 👯 I'm looking to collaborate on **AI/ML and Generative AI projects**
 - 💬 Ask me about **Generative AI, Machine Learning**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **haarishkcb@gmail.com**
 
 ---
 
@@ -35,14 +35,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/haarish-kc?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/haarish-kc?label=Stars&style=for-the-badge&color=0e75b6" alt="Stars" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haarish-kc&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-</p>
+<p align="center"> <img src="https://img.shields.io/github/followers/haarish-kc?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" /> <img src="https://img.shields.io/github/stars/haarish-kc?label=Stars&style=for-the-badge&color=0e75b6" alt="Stars" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haarish-kc&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haarish-kc&layout=compact&theme=radical" alt="Top Languages" />
