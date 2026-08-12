@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Earth</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=haarish-kc&label=Profile%20views&color=0e75b6&style=flat" alt="haarish-kc" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **Generative AI & related technologies**
 - 👯 I'm looking to collaborate on **AI/ML and Generative AI projects**
 - 💬 Ask me about **Generative AI, Machine Learning**
-- 📫 How to reach me: **haarishkcb@gmail.com**
+- 📫 How to reach me: **your.email@example.com**
 
 ---
 
@@ -35,12 +35,32 @@
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=haarish-kc&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=haarish-kc&theme=radical" alt="GitHub Streak" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haarish-kc&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/haarish-kc?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/haarish-kc?label=Stars&style=for-the-badge&color=0e75b6" alt="Stars" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haarish-kc&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haarish-kc&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- Note: The GitHub Stats card above is powered by a third-party service (github-readme-stats).
+     It occasionally has downtime. If it shows an error, it's usually temporary — just refresh
+     your GitHub profile page after a few minutes. The Followers/Stars badges above use GitHub's
+     official Shields.io badge service and are much more reliable. -->
+
+---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/haarish-kc" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" /></a>
+  <a href="https://linkedin.com/in/Haarish-kc" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" /></a>
+  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" /></a>
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" height="32" /></a>
 </p>
 
 ---
